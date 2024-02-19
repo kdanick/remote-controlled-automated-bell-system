@@ -1,7 +1,5 @@
-# Automated-bell without mobile app
+# Automated-bell with mobile app
 A school based automated bell system
-
-Ths automated school bell is made of an arduino.
 
 SinricPro Automated School Bell System
 This project demonstrates an advanced setup for using the SinricPro platform to control multiple switches and relays on an ESP module. The system is designed to facilitate the creation of an automated school bell system, allowing for remote control of bells or any other electrical devices through the SinricPro mobile application.
