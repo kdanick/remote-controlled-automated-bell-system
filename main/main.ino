@@ -40,10 +40,10 @@
 #include "SinricProSwitch.h"
 #include <map>
 
-#define WIFI_SSID         "Daniel"
-#define WIFI_PASS         "pmyv8856"
-#define APP_KEY           "f47d812c-b072-4bd9-b312-976cd5313117"
-#define APP_SECRET        "3c4f4116-641d-48dd-b71b-6a40c900bcb8-db2f7f7a-ec9b-4295-b28a-24f9b4047a71"
+#define WIFI_SSID         "WIFI-SSID"
+#define WIFI_PASS         "PASSWORD"
+#define APP_KEY           "APP-KEY"
+#define APP_SECRET        "YOUR APP_SECRET"
 
 // comment the following line if you use a toggle switches instead of tactile buttons
 
